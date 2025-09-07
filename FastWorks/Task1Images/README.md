@@ -1,1 +1,1 @@
-Folder containing all necessary images for Task 1
+Folder containing all necessary images for different tasks
