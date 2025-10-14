@@ -1,6 +1,6 @@
 # Parcial 1 de Teoría de Aprenzidaje de Máquina
 
-## Hecho por:
+## Integrantes:
 * Felipe Fernández Alzate
 * Gabriela Romo Mendoza
 
